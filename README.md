@@ -2,6 +2,8 @@
 
 My implementations of different machine learning algorithms from scratch.
 
+**Work in progress**
+
 ## motivation
 
 Prior to building these models, I had explored many machine learning model implementations from different ML libraries like pytorch, scikit-learn, tensorflow (Fully Connected Lyears, convoluitonal neural networks, and recurrent neural networks)
